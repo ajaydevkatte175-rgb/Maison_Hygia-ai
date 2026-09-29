@@ -5,10 +5,11 @@
 ---
 
 ## 🎥 Project Demo & Walkthrough
-*Watch the live feature demonstration below, showcasing local RAG retrieval, safety guardrails, and the human escalation desk:*
+*Click the image below to watch the full walkthrough and feature demo of the application:*
 
-[![Maison Hygia AI Walkthrough]((https://drive.google.com/drive/folders/1Vm5mn3wM2YvUYeXsEBSd-sIWIN_6Ygs-?usp=sharing))
-*(If viewing offline, access the full walkthrough video file: `maison_project_demo.mp4`)*
+[![Maison Hygia AI Walkthrough Demo](https://img.ai-engineers.org/assets/play-button-banner.png)](https://drive.google.com/drive/folders/1Vm5mn3wM2YvUYeXsEBSd-sIWIN_6Ygs-?usp=sharing)
+
+*(Or access the video file directly in the repository/drive: `maison_project_demo.mp4`)*
 
 ---
 
